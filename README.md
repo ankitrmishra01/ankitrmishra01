@@ -1,34 +1,44 @@
 <div align="center">
 
-<img src="https://media.githubusercontent.com/media/meryassus/meryassus/main/assets/developer.gif" width="200" alt="Animated Developer Character"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="220" alt="Coder Avatar"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ankit+Mishra.+%F0%9F%91%8B;Algorithms+in+C%2B%2B+%7C+AI+Projects+in+Python.;Building+Intelligent+Web+Systems.;CGPA:+8.4+%40+Parul+University." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ankit+Mishra.+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer.;Training+Models.+Deploying+Systems.;CGPA:+8.4+%40+Parul+University." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-7980b82b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitrmishra01)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitrmishra01@gmail.com)
-
-<br>
-
-*AI Engineering Student @ Parul University | India 🇮🇳*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-7980b82b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitrmishra01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrmishra01@gmail.com)
 
 <hr style="border: 1px solid #21262d; width: 80%; margin-top: 20px; margin-bottom: 20px;">
 
 </div>
 
-## 👨‍💻 The Blueprint
+## 👨‍💻 `system_architecture.py`
 
-I am a **3rd Year BTech CSE (AI)** student with an **8.4 CGPA**, focusing on building products that actually scale. I divide my expertise into two distinct areas: solving complex algorithmic problems efficiently using **C++**, and architecting robust, AI-integrated web applications using **Python and React**. 
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Ankit Mishra"
+        self.education = "3rd Year BTech CSE (AI) @ Parul University"
+        self.cgpa = 8.4
+        self.location = "India 🇮🇳"
 
-* 🎯 **Current Focus:** Scaling **Cresta** and **Fairscan** for production environments.
-* 🧠 **Core Strengths:** Algorithmic Problem Solving, RESTful APIs, Machine Learning Integration.
-* ☁️ **Environment:** Comfortable deploying distributed systems on **AWS & Linux**.
+    def get_core_capabilities(self):
+        return {
+            "machine_learning": "Python, Model Training, Scikit-Learn (AI Integration)",
+            "algorithms": "C++ (Highly-optimized logic & problem solving)",
+            "full_stack": "React, Node.js, Express (End-to-end web architecture)",
+            "infrastructure": "AWS & Linux (Scalable cloud deployments)"
+        }
 
----
+    def current_mission(self):
+        return "Scaling 'Cresta' and 'Fairscan' for production environments."
+
+if __name__ == "__main__":
+    ankit = MLEngineer()
 
 ## 🚀 Featured Architecture
 
