@@ -1,9 +1,45 @@
 <div align="center">
 
-<!-- CUSTOM SVG AVATAR — upload ankit_avatar.svg to your repo root -->
-<img src="ankit_avatar.svg" width="160" height="160" style="border-radius:50%" alt="Ankit Mishra"/>
+<svg width="160" height="160" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="cc"><circle cx="200" cy="200" r="196"/></clipPath></defs>
+  <circle cx="200" cy="200" r="196" fill="#1e1b4b"/>
+  <circle cx="200" cy="200" r="196" fill="none" stroke="#6366f1" stroke-width="4"/>
+  <circle cx="200" cy="200" r="160" fill="none" stroke="#4338ca" stroke-width="0.5" opacity="0.4"/>
+  <ellipse cx="200" cy="340" rx="90" ry="55" fill="#312e81" clip-path="url(#cc)"/>
+  <ellipse cx="200" cy="310" rx="60" ry="38" fill="#1e1b4b" clip-path="url(#cc)"/>
+  <rect x="182" y="248" width="36" height="38" rx="8" fill="#c8a882" clip-path="url(#cc)"/>
+  <ellipse cx="200" cy="200" rx="60" ry="68" fill="#d4a574"/>
+  <ellipse cx="200" cy="198" rx="54" ry="60" fill="#dbb07a"/>
+  <ellipse cx="200" cy="148" rx="60" ry="38" fill="#1a1a2e"/>
+  <ellipse cx="152" cy="178" rx="22" ry="30" fill="#1a1a2e"/>
+  <ellipse cx="248" cy="178" rx="22" ry="30" fill="#1a1a2e"/>
+  <ellipse cx="200" cy="155" rx="56" ry="30" fill="#1a1a2e"/>
+  <ellipse cx="140" cy="200" rx="11" ry="16" fill="#c8a374"/>
+  <ellipse cx="260" cy="200" rx="11" ry="16" fill="#c8a374"/>
+  <ellipse cx="140" cy="200" rx="6" ry="10" fill="#b8906a"/>
+  <ellipse cx="260" cy="200" rx="6" ry="10" fill="#b8906a"/>
+  <rect x="153" y="186" width="40" height="26" rx="7" fill="none" stroke="#4338ca" stroke-width="3"/>
+  <rect x="207" y="186" width="40" height="26" rx="7" fill="none" stroke="#4338ca" stroke-width="3"/>
+  <line x1="193" y1="199" x2="207" y2="199" stroke="#4338ca" stroke-width="2.5"/>
+  <line x1="153" y1="199" x2="142" y2="199" stroke="#4338ca" stroke-width="2.5"/>
+  <line x1="247" y1="199" x2="258" y2="199" stroke="#4338ca" stroke-width="2.5"/>
+  <rect x="154" y="187" width="38" height="24" rx="6" fill="#6366f1" opacity="0.12"/>
+  <rect x="208" y="187" width="38" height="24" rx="6" fill="#6366f1" opacity="0.12"/>
+  <ellipse cx="173" cy="199" rx="9" ry="8" fill="#fff"/>
+  <ellipse cx="227" cy="199" rx="9" ry="8" fill="#fff"/>
+  <ellipse cx="175" cy="200" rx="5" ry="5.5" fill="#2d1b00"/>
+  <ellipse cx="229" cy="200" rx="5" ry="5.5" fill="#2d1b00"/>
+  <circle cx="177" cy="197" r="1.5" fill="#fff"/>
+  <circle cx="231" cy="197" r="1.5" fill="#fff"/>
+  <path d="M158 182 Q173 177 188 181" stroke="#2d1b00" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+  <path d="M212 181 Q227 176 242 181" stroke="#2d1b00" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+  <path d="M197 208 Q194 218 196 222 Q200 225 204 222 Q206 218 203 208" stroke="#b8906a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M188 236 Q200 244 212 236" stroke="#8b5e3c" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <rect x="148" y="358" width="104" height="26" rx="13" fill="#6366f1" opacity="0.85"/>
+  <text x="200" y="375" font-family="monospace" font-size="11" fill="#fff" text-anchor="middle" font-weight="600">AI · ML · DEV</text>
+</svg>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit+Mishra+%F0%9F%91%8B" alt="Hi I'm Ankit Mishra"/>
 
@@ -115,20 +151,17 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 
 ---
 
-## 📊 System Telemetry
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrmishra01&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=f472b6&currStreakLabel=a5b4fc&background=0d1117" width="48%"/>
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&bg_color=0d1117)](https://github.com/ankitrmishra01)
+&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitrmishra01&theme=tokyonight&hide_border=true&ring=6366f1&fire=f472b6&currStreakLabel=a5b4fc&background=0d1117)](https://github.com/ankitrmishra01)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=a5b4fc&bg_color=0d1117" width="40%"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/6366f1/ankitrmishra01" alt="Ankit's GitHub Contributions" width="95%"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=a5b4fc&bg_color=0d1117)](https://github.com/ankitrmishra01)
 
 </div>
 
@@ -141,8 +174,6 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
@@ -160,19 +191,6 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 
 <br/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=0)
+[![Capsule Footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&fontSize=0)](https://github.com/ankitrmishra01)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=100&section=footer"/>
-</p>
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=0)
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=100&section=footer"/>
-</p>
