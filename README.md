@@ -1,115 +1,155 @@
-<p align="center">
-  <a href="https://github.com/ankitrmishra01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=33FF33&background=00000000&center=true&vCenter=true&width=800&lines=>+Hello,+World!;>+I'm+Ankit+Mishra.;>+AI+Engineer+%26+Full+Stack+Developer.;>+Turning+ideas+into+production+systems." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coder.gif" width="500" alt="Coding Animation"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Building+scalable+AI-powered+systems.;AI+Engineer+%7C+Full-Stack+Dev+%7C+Cloud;C%2B%2B+%7C+Python+%7C+React+%7C+Node.js;3rd+Year+BTech+CSE+(AI)" alt="Typing SVG" />
 
----
+<br/>
 
-## 👨‍💻 Who Am I?
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
-🎓 **3rd Year BTech CSE (Artificial Intelligence)** 🧠 Strong focus on **AI systems, competitive programming, & scalable architecture** 💻 Full-stack developer specializing in **algorithmic problem solving, backend logic, and APIs** ☁️ Experienced in deploying and managing applications on **AWS & Linux environments** 🚀 Driven to build **clean, impactful, and real-world tech products**
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-7980b82b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitrmishra01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitrmishra01@gmail.com)
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,java&theme=dark"/>
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,linux&theme=dark"/>
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `> whoami`
 
-### 🌟 Cresta
-> **High-performance data handling and seamless user workflows.**
-* Integrates smart analytics and processing for better decision-making.
-* Built with a focus on scalable architecture and clean UI.
-* 🛠 **Tech Stack:** React | Node.js | Python | Cloud
-<p>
-  <a href="https://github.com/ankitrmishra01/cresta"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ai coding gif"/>
 
-<br>
+<pre>
+class AnkitMishra:
+    role        = "3rd Year BTech CSE (AI) Student"
+    location    = "India 🇮🇳"
+    focus       = ["Full-Stack Dev", "AI Integration", "Backend Systems", "APIs"]
+    currently   = "Building Cresta & Fairscan"
+    fun_fact    = "I write contest-safe C++ by day, and scalable APIs by night 🚀"
 
-### 🔍 Fairscan
-> **Intelligent scanning and automated analysis platform.**
-* Streamlines data extraction and processing with high accuracy using AI/ML.
-* Designed to handle complex, real-world workloads efficiently.
-* 🛠 **Tech Stack:** Python | AI/ML | Backend APIs
-<p>
-  <a href="https://github.com/ankitrmishra01/fairscan"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+    core_skills = [
+        "End-to-End Application Design",
+        "Algorithmic Problem Solving",
+        "Cloud Deployment (AWS/Linux)",
+        "REST API Architecture"
+    ]
+</pre>
 
-<br>
-
-### 🎬 Movie Recommendation System
-> **Personalized AI-driven entertainment suggestions.**
-* Utilizes content-based & collaborative filtering algorithms.
-* Efficient similarity matching for highly accurate recommendations.
-* 🛠 **Tech Stack:** Python | Machine Learning | Data Processing
-<p>
-  <a href="https://github.com/ankitrmishra01/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br>
-
-### 🌾 Smart Crop Advisory System
-> **AI-driven decision support for modern agriculture.**
-* Generates crop suggestions using live soil & weather data.
-* Focused on delivering real-world social impact for farmers.
-* 🛠 **Tech Stack:** AI Models | APIs | Data Analysis
-<p>
-  <a href="https://github.com/ankitrmishra01/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+## `> ls projects/`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrmishra01&theme=github_dark&hide_border=true" width="48%"/>
-</p>
+<details>
+<summary><b>🌟 Cresta — High-Performance Data Platform</b> &nbsp;<code>[Ongoing]</code></summary>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
-</p>
+> A full-stack platform designed for high-performance data handling and seamless user workflows, integrating smart analytics for better decision-making.
+
+- ⚡ Optimized backend processing for rapid data retrieval.
+- 🧠 Integrated analytics modules for actionable insights.
+- 🏗️ Built with a highly scalable, production-ready architecture.
+
+**Stack:** `React` `Node.js` `Python` `Cloud Infrastructure`
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitrmishra01/cresta)
+
+</details>
+
+<details>
+<summary><b>🔍 Fairscan — Automated Analysis System</b> &nbsp;<code>[Ongoing]</code></summary>
+<br/>
+
+> An intelligent scanning platform that streamlines data extraction and processing with high accuracy using AI/ML workloads.
+
+- 📄 Automated, high-accuracy data extraction workflows.
+- ⚙️ Architecture designed to handle complex, real-world data pipelines.
+- 🤖 Seamless integration of machine learning models via APIs.
+
+**Stack:** `Python` `AI/ML Models` `Backend APIs`
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitrmishra01/fairscan)
+
+</details>
+
+<details>
+<summary><b>🎬 Movie Recommendation Engine</b></summary>
+<br/>
+
+> Personalized AI-driven entertainment suggestions using hybrid filtering algorithms.
+
+- 🧠 Utilizes content-based & collaborative filtering algorithms.
+- 📊 Efficient similarity matching for highly accurate recommendations.
+
+**Stack:** `Python` `Machine Learning` `Data Processing`
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</details>
+
+<details>
+<summary><b>🌾 Smart Crop Advisory System</b></summary>
+<br/>
+
+> AI-driven decision support for modern agriculture utilizing live environmental data.
+
+- 🌱 Generates targeted crop suggestions using live soil & weather metrics.
+- 🌍 Focused on delivering real-world social impact for the farming community.
+
+**Stack:** `AI Models` `APIs` `Data Analysis`
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</details>
 
 ---
 
-## 🤝 Let’s Connect
+## `> cat tech_stack.txt`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-mishra-7980b82b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ankitrmishra01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Languages**
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web / Backend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+**Databases / Cloud / DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankitrmishra01&theme=chartreuse-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+</div>
+
+---
+
+## `> tail -1 /var/log/activity.log`
+
+<div align="center">
 ## 🧠 Mindset
 
 <p align="center">
