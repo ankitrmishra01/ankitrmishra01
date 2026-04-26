@@ -16,56 +16,80 @@
 
 </div>
 
-## 👨‍💻 `system_architecture.py`
+## 👨‍💻 System Architecture
 
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Ankit Mishra"
-        self.education = "3rd Year BTech CSE (AI) @ Parul University"
-        self.cgpa = 8.4
-        self.location = "India 🇮🇳"
+I am a **3rd Year BTech CSE (AI)** student with an **8.4 CGPA** at Parul University. I bridge the gap between complex algorithms and user-facing applications. 
 
-    def get_core_capabilities(self):
-        return {
-            "machine_learning": "Python, Model Training, Scikit-Learn (AI Integration)",
-            "algorithms": "C++ (Highly-optimized logic & problem solving)",
-            "full_stack": "React, Node.js, Express (End-to-end web architecture)",
-            "infrastructure": "AWS & Linux (Scalable cloud deployments)"
-        }
+My workflow is split into two core engines:
+1. **The Core Logic:** Solving complex, edge-case-heavy algorithmic problems with highly optimized **C++**.
+2. **The Innovation Layer:** Training Machine Learning models and deploying them into scalable, full-stack web architectures using **Python, React, and AWS**.
 
-    def current_mission(self):
-        return "Scaling 'Cresta' and 'Fairscan' for production environments."
+🎯 **Current Mission:** Scaling **Cresta** and **Fairscan** for production environments.
 
-if __name__ == "__main__":
-    ankit = MLEngineer()
+---
 
-## 🚀 Featured Architecture
+## 🚀 Production Deployments
 
-### ✦ Cresta | High-Performance Data Platform
-> *A full-stack ecosystem engineered for complex data handling, seamless user workflows, and actionable analytics.*
-* **Engineering:** Optimized backend routing ensures rapid data retrieval with minimal latency.
-* **Impact:** Transforms raw datasets into clean, actionable insights for end-users.
-* **Stack:** `React.js` • `Node.js` • `Python` • `AWS`
-* 🔗 [View Source Code](https://github.com/ankitrmishra01/cresta)
+*(Click on the "View Engineering details" dropdowns to see how they work)*
 
-### ✦ Fairscan | Automated AI Analysis System
-> *An intelligent scanning platform utilizing heavy AI workloads to streamline data extraction.*
-* **Engineering:** Built to handle real-world, heavy-duty data pipelines automatically.
-* **Impact:** Replaces manual data bottlenecks with highly accurate, API-driven Machine Learning models.
-* **Stack:** `Python` • `Machine Learning` • `Backend APIs`
-* 🔗 [View Source Code](https://github.com/ankitrmishra01/fairscan)
-
-### ✦ Smart Crop Advisory System
-> *AI-driven decision support system for modern agriculture.*
-* **Engineering:** Processes live environmental metrics (soil and weather) to output targeted recommendations.
-* **Impact:** Delivers real-world social value to the farming community.
-* **Stack:** `AI Models` • `Data Analysis` • `APIs`
-
-### ✦ Movie Recommendation Engine
-> *Personalized AI-driven entertainment suggestions.*
-* **Engineering:** Fuses content-based and collaborative filtering for high-accuracy similarity matching.
-* **Stack:** `Python` • `Scikit-Learn` • `Data Processing`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Cresta</h3>
+      <p><i>High-Performance Data Platform</i></p>
+      <details>
+        <summary><b>👁️ View Engineering Details</b></summary>
+        <br>
+        A full-stack ecosystem engineered for complex data handling and actionable analytics.
+        <br><br>
+        <b>⚙️ Logic:</b> Optimized backend routing for rapid data retrieval.<br>
+        <b>🛠 Stack:</b> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Python</kbd> <kbd>AWS</kbd>
+        <br><br>
+        <a href="https://github.com/ankitrmishra01/cresta">🔗 View Source Code</a>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Fairscan</h3>
+      <p><i>Automated AI Analysis System</i></p>
+      <details>
+        <summary><b>👁️ View Engineering Details</b></summary>
+        <br>
+        An intelligent scanning platform utilizing heavy AI workloads to streamline data extraction.
+        <br><br>
+        <b>⚙️ Logic:</b> Built to automate real-world, heavy-duty data pipelines.<br>
+        <b>🛠 Stack:</b> <kbd>Python</kbd> <kbd>AI/ML</kbd> <kbd>REST APIs</kbd>
+        <br><br>
+        <a href="https://github.com/ankitrmishra01/fairscan">🔗 View Source Code</a>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Smart Crop Advisory</h3>
+      <p><i>AI-Driven Agriculture Support</i></p>
+      <details>
+        <summary><b>👁️ View Engineering Details</b></summary>
+        <br>
+        Processes live environmental metrics (soil and weather) to output targeted crop recommendations.
+        <br><br>
+        <b>⚙️ Impact:</b> Delivers real-world social value to the farming community.<br>
+        <b>🛠 Stack:</b> <kbd>AI Models</kbd> <kbd>Data Analysis</kbd> <kbd>APIs</kbd>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Movie Recommendation Engine</h3>
+      <p><i>Personalized Entertainment AI</i></p>
+      <details>
+        <summary><b>👁️ View Engineering Details</b></summary>
+        <br>
+        Fuses content-based and collaborative filtering for high-accuracy similarity matching.
+        <br><br>
+        <b>⚙️ Logic:</b> Hybrid algorithm approach to overcome cold-start problems.<br>
+        <b>🛠 Stack:</b> <kbd>Python</kbd> <kbd>Scikit-Learn</kbd>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,7 +97,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-| Core Logic & Algorithms | AI & Backend Architecture | Frontend & Cloud Deployment |
+| Core Logic & Algorithms | AI/ML & Backend Architecture | Frontend & Cloud Deployment |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" width="120" /> | <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb&theme=dark" width="160" /> | <img src="https://skillicons.dev/icons?i=react,js,aws,docker,linux&theme=dark" width="200" /> |
 | **C++ • C • Java** | **Python • Node.js • Express** | **React • AWS • Docker** |
@@ -82,7 +106,7 @@ if __name__ == "__main__":
 
 ---
 
-## 📊 Developer Metrics
+## 📊 System Telemetry
 
 <div align="center">
 
@@ -93,8 +117,27 @@ if __name__ == "__main__":
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="45%"/>
 
-<br><br>
+</div>
 
-![](https://komarev.com/ghpvc/?username=ankitrmishra01&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
+---
+
+## 🧠 Mindset & Status
+
+<div align="center">
+
+<p>
+  <b>Think.</b> <b>Build.</b> <b>Break.</b> <b>Improve.</b> <b>Repeat.</b> 🚀
+</p>
+
+`// Currently shipping: Cresta & Fairscan → production` <br>
+`// Status: Open to collaborate ✅`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ankitrmishra01&color=58A6FF&style=flat-square&label=SYSTEM+PINGS" alt="Profile Views"/>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=100&section=footer"/>
+</p>
