@@ -1,4 +1,3 @@
-<!-- Neon Cyberpunk Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ankit%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20&descAlignY=72"/>
 </p>
@@ -13,11 +12,7 @@
 
 <img align="right" width="320" src="https://media.githubusercontent.com/media/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-🎓 **3rd Year BTech CSE (Artificial Intelligence)**  
-🧠 Strong interest in **AI systems + scalable software architecture**  
-💻 Full-stack developer who enjoys **backend logic, APIs & deployment**  
-☁️ Comfortable deploying and managing applications on **AWS & Linux**  
-🚀 Goal: Build **impactful, real-world tech products**
+🎓 **3rd Year BTech CSE (Artificial Intelligence)** 🧠 Strong interest in **AI systems, competitive programming, & scalable software architecture** 💻 Full-stack developer who enjoys **algorithmic problem solving, backend logic, APIs & deployment** ☁️ Comfortable deploying and managing applications on **AWS & Linux** 🚀 Goal: Build **impactful, real-world tech products**
 
 ---
 
@@ -26,8 +21,8 @@
 - Design **end-to-end applications**
 - Build **REST APIs & backend systems**
 - Integrate **AI/ML models into web apps**
+- Write **contest-safe, optimized C++ code**
 - Deploy projects on **cloud infrastructure**
-- Write **clean, efficient & scalable code**
 
 ---
 
@@ -35,7 +30,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java&theme=dark"/>
 </p>
 
 ### 🌐 Web
@@ -67,37 +62,49 @@
 
 ## 🚀 Featured Projects (Real Impact)
 
-### 🎬 Movie Recommendation System
-🧠 AI-based personalized recommendations  
-⚙️ Content-based & collaborative filtering  
-📊 Efficient similarity matching  
-🛠 **Python | ML | Data Processing**
+### 🌟 Cresta
+> **A brief, powerful one-liner about what Cresta does.**
+* 🚀 Features high-performance data handling and seamless user workflows.
+* 🧠 Integrates smart analytics/processing for better decision-making.
+* 🛠 **Tech Stack:** React | Node.js | Python | Cloud
+<p>
+  <a href="https://github.com/ankitrmishra01/cresta"><img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-View-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
----
+<br>
+
+### 🔍 Fairscan
+> **Intelligent scanning and automated analysis platform.**
+* 📄 Streamlines data extraction and processing with high accuracy.
+* ⚙️ Built with scalable architecture to handle complex workloads.
+* 🛠 **Tech Stack:** Python | AI/ML | Backend APIs
+<p>
+  <a href="https://github.com/ankitrmishra01/fairscan"><img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-View-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<br>
+
+### 🎬 Movie Recommendation System
+> **Personalized AI-driven entertainment suggestions.**
+* 🧠 Utilizes content-based & collaborative filtering algorithms.
+* 📊 Efficient similarity matching for highly accurate recommendations.
+* 🛠 **Tech Stack:** Python | Machine Learning | Data Processing
+<p>
+  <a href="https://github.com/ankitrmishra01/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br>
 
 ### 🌾 Smart Crop Advisory System
-🌱 Crop suggestions using soil & weather data  
-🤖 AI-driven decision support for farmers  
-🌍 Real-world social impact  
-🛠 **AI Models | APIs | Data Analysis**
-
----
-
-### 🛒 Amazon Clone
-🛍 Full-stack e-commerce platform  
-🔐 Authentication & secure workflows  
-📦 Cart, orders & product management  
-🛠 **React | Backend APIs | Database**
-
----
-
-### ⚙️ Other Works
-✔️ REST API projects  
-✔️ CRUD-based platforms  
-✔️ Cloud-deployed web apps  
-✔️ Backend-heavy systems  
-
-📌 *Check pinned repositories below*
+> **AI-driven decision support for modern agriculture.**
+* 🌱 Generates crop suggestions using live soil & weather data.
+* 🌍 Focused on delivering real-world social impact for farmers.
+* 🛠 **Tech Stack:** AI Models | APIs | Data Analysis
+<p>
+  <a href="https://github.com/ankitrmishra01/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/Source%20Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -141,8 +148,6 @@
   <b>Think.</b> <b>Build.</b> <b>Break.</b> <b>Improve.</b> <b>Repeat.</b> 🚀
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
 </p>
-
