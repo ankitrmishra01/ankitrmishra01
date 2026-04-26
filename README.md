@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- WORKING AVATAR: DiceBear illustrated avatar — renders on GitHub no upload needed -->
-<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=AnkitMishra&backgroundColor=1e1b4b&hair=short01&eyes=variant04&skinColor=f2d3b1&clothingColor=6366f1&features=glasses" width="160" height="160" style="border-radius:50%" alt="Ankit Mishra"/>
+<!-- CUSTOM SVG AVATAR — upload ankit_avatar.svg to your repo root -->
+<img src="ankit_avatar.svg" width="160" height="160" style="border-radius:50%" alt="Ankit Mishra"/>
 
 <br/><br/>
 
@@ -128,7 +128,6 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 
 <br/><br/>
 
-<!-- Real contribution graph — auto-updates with your actual commits from ankitrmishra01 -->
 <img src="https://ghchart.rshah.org/6366f1/ankitrmishra01" alt="Ankit's GitHub Contributions" width="95%"/>
 
 </div>
@@ -159,6 +158,15 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 // next:   scaling Cresta AI advisor → production
 ```
 
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=0)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=100&section=footer"/>
+</p>
 <br/>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=0)
