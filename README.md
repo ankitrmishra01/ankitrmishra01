@@ -1,24 +1,20 @@
 <div align="center">
 
-<!-- Avatar: upload avatar.svg to your repo root alongside README.md -->
-<img src="avatar.svg" width="180" height="210" alt="Ankit Mishra Avatar"/>
+<!-- WORKING AVATAR: DiceBear illustrated avatar — renders on GitHub no upload needed -->
+<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=AnkitMishra&backgroundColor=1e1b4b&hair=short01&eyes=variant04&skinColor=f2d3b1&clothingColor=6366f1&features=glasses" width="160" height="160" style="border-radius:50%" alt="Ankit Mishra"/>
 
-<br/>
+<br/><br/>
 
-# Hi, I'm Ankit Mishra 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit+Mishra+%F0%9F%91%8B" alt="Hi I'm Ankit Mishra"/>
 
-### `AI/ML Engineer · Full-Stack Developer · AWS Architect`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Training+Models.+Deploying+Systems.+Shipping+Products.;AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+AWS+Architect;CGPA%3A+8.4+%40+Parul+University;6+Live+Projects+%26+Counting..." alt="Typing SVG"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Training+Models.+Deploying+Systems.+Shipping+Products.;AI%2FML+Engineer+%7C+Full-Stack+%7C+AWS+Architect;CGPA%3A+8.4+%40+Parul+University;6+Live+Projects+%26+Counting...)](https://git.io/typing-svg)
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-7980b82b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitrmishra01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitrmishra01@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ankitrmishra01&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ankitrmishra01)
-
-<br/>
 
 </div>
 
@@ -31,7 +27,7 @@
 I bridge the gap between complex algorithms and user-facing applications. My workflow runs on two core engines:
 
 - **Core Logic Engine** — Solving algorithmic problems with highly optimized **C++**
-- **Innovation Layer** — Training ML models and deploying them into scalable full-stack architectures using **Python, React, Node.js & AWS**
+- **Innovation Layer** — Training ML models and deploying them into scalable architectures using **Python, React, Node.js & AWS**
 
 ```json
 {
@@ -57,7 +53,7 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
         <br>
         Intelligent AI-powered stock market advisor. Analyzes live market data, predicts trends, and delivers personalized investment recommendations powered by ML models.
         <br><br>
-        <b>⚙️ Logic:</b> Real-time market data ingestion → ML inference → personalized stock picks<br>
+        <b>⚙️ Logic:</b> Real-time data ingestion → ML inference → personalized stock picks<br>
         <b>🛠 Stack:</b> <kbd>Python</kbd> <kbd>ML Models</kbd> <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>AWS</kbd>
         <br><br>
         <a href="https://github.com/ankitrmishra01/cresta">🔗 View Source Code</a>
@@ -69,9 +65,9 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
       <details>
         <summary><b>👁️ View Engineering Details</b></summary>
         <br>
-        Intelligent scanning platform utilizing heavy AI workloads to streamline data extraction and automate real-world heavy-duty data pipelines.
+        Intelligent scanning platform utilizing heavy AI workloads. Automates real-world heavy-duty data pipelines and extraction at scale.
         <br><br>
-        <b>⚙️ Logic:</b> Automated pipeline: scan → extract → classify → deliver<br>
+        <b>⚙️ Logic:</b> Scan → extract → classify → deliver<br>
         <b>🛠 Stack:</b> <kbd>Python</kbd> <kbd>AI/ML</kbd> <kbd>REST APIs</kbd>
         <br><br>
         <a href="https://github.com/ankitrmishra01/fairscan">🔗 View Source Code</a>
@@ -85,9 +81,8 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
       <details>
         <summary><b>👁️ View Engineering Details</b></summary>
         <br>
-        Processes live environmental metrics (soil + weather) to output hyper-targeted crop recommendations with real-world farming impact.
+        Processes live environmental metrics (soil + weather) to output hyper-targeted crop recommendations. Real social impact for farming communities.
         <br><br>
-        <b>⚙️ Impact:</b> Measurable social value to the farming community<br>
         <b>🛠 Stack:</b> <kbd>AI Models</kbd> <kbd>Data Analysis</kbd> <kbd>APIs</kbd>
       </details>
     </td>
@@ -97,9 +92,8 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
       <details>
         <summary><b>👁️ View Engineering Details</b></summary>
         <br>
-        Fuses content-based and collaborative filtering for high-accuracy similarity matching. Hybrid algorithm approach overcomes the cold-start problem.
+        Fuses content-based and collaborative filtering for high-accuracy similarity matching. Hybrid algorithm overcomes the cold-start problem.
         <br><br>
-        <b>⚙️ Logic:</b> Hybrid filtering → overcomes cold-start problem<br>
         <b>🛠 Stack:</b> <kbd>Python</kbd> <kbd>Scikit-Learn</kbd>
       </details>
     </td>
@@ -125,16 +119,17 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&bg_color=07090f" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrmishra01&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=f472b6&currStreakLabel=a5b4fc&background=07090f" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankitrmishra01&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrmishra01&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=f472b6&currStreakLabel=a5b4fc&background=0d1117" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=a5b4fc&bg_color=07090f" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrmishra01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=a5b4fc&bg_color=0d1117" width="40%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/6366f1/ankitrmishra01" alt="Ankit's GitHub Contributions" width="100%"/>
+<!-- Real contribution graph — auto-updates with your actual commits from ankitrmishra01 -->
+<img src="https://ghchart.rshah.org/6366f1/ankitrmishra01" alt="Ankit's GitHub Contributions" width="95%"/>
 
 </div>
 
@@ -164,14 +159,9 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
 // next:   scaling Cresta AI advisor → production
 ```
 
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090f,50:1e1b4b,100:6366f1&height=100&section=footer"/>
-</p>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ankitrmishra01&color=58A6FF&style=flat-square&label=SYSTEM+PINGS" alt="Profile Views"/>
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=0)
 
 </div>
 
