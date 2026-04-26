@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ankit+Mishra.+%F0%9F%91%8B;Building+Intelligent+Web+Systems.;Bridging+AI+with+Full-Stack+Development.;Writing+High-Performance+C%2B%2B." alt="Typing SVG" />
+<img src="https://media.githubusercontent.com/media/meryassus/meryassus/main/assets/developer.gif" width="200" alt="Animated Developer Character"/>
 
 <br/>
 
-<img src="https://media.githubusercontent.com/media/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Loop"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ankit+Mishra.+%F0%9F%91%8B;Algorithms+in+C%2B%2B+%7C+AI+Projects+in+Python.;Building+Intelligent+Web+Systems.;CGPA:+8.4+%40+Parul+University." alt="Typing SVG" />
 
-<br><br>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-7980b82b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitrmishra01)
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 The Blueprint
 
-I am a **3rd Year BTech CSE (AI)** student who focuses on building products that actually scale. I divide my expertise into two distinct areas: writing highly-optimized, edge-case-proof code in **C++**, and architecting robust, AI-integrated web applications using **Python and React**. 
+I am a **3rd Year BTech CSE (AI)** student with an **8.4 CGPA**, focusing on building products that actually scale. I divide my expertise into two distinct areas: solving complex algorithmic problems efficiently using **C++**, and architecting robust, AI-integrated web applications using **Python and React**. 
 
 * 🎯 **Current Focus:** Scaling **Cresta** and **Fairscan** for production environments.
 * 🧠 **Core Strengths:** Algorithmic Problem Solving, RESTful APIs, Machine Learning Integration.
@@ -63,7 +63,7 @@ I am a **3rd Year BTech CSE (AI)** student who focuses on building products that
 
 <div align="center">
 
-| Core Languages | AI & Backend | Frontend & Cloud |
+| Core Logic & Algorithms | AI & Backend Architecture | Frontend & Cloud Deployment |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" width="120" /> | <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb&theme=dark" width="160" /> | <img src="https://skillicons.dev/icons?i=react,js,aws,docker,linux&theme=dark" width="200" /> |
 | **C++ • C • Java** | **Python • Node.js • Express** | **React • AWS • Docker** |
@@ -88,12 +88,3 @@ I am a **3rd Year BTech CSE (AI)** student who focuses on building products that
 ![](https://komarev.com/ghpvc/?username=ankitrmishra01&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-## 🧠 Mindset
-
-<p align="center">
-  <b>Think.</b> <b>Build.</b> <b>Break.</b> <b>Improve.</b> <b>Repeat.</b> 🚀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
-</p>
