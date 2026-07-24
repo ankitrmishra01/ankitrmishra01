@@ -29,7 +29,7 @@ I bridge the gap between complex algorithms and user-facing applications. My wor
     "name": "Ankit Mishra",
     "role": "AI/ML Engineer · Full-Stack Developer · AWS Architect",
     "stack": "Python · React · Node.js · AWS · Docker · C++",
-    "education": "3rd Year BTech CSE (AI) @ Parul University (CGPA 8.4)",
+    "education": "4th Year BTech CSE (AI) @ Parul University (CGPA 8.45)",
     "status": "open_to_collaborate = true"
   }
 }</code></pre>
